@@ -1,8 +1,26 @@
-[
-  "VESSEL",
-  "ETD BUSAN",
-  "NO.&Date of Invoice",
-  "Shipper/Exporter",
-  "TOTAL CIF",
-  "PURCHASE ORDER NO."
-]
+{
+  "pdf1_obol": [
+    "Booking No",
+    "Address",
+    "Order No",
+    "Vessel name",
+    "OBOL number",
+    "Depart date",
+    "Cutoff date",
+    "Destination port",
+    "Total ROLL Shipped",
+    "Total Lots Shipped",
+    "Total Containers",
+    "CBM",
+    "HTS Code"
+  ],
+  "pdf2_sea_waybill": [
+    "Sea waybill no",
+    "Voyage no",
+    "Booking Ref",
+    "Port of Discharge",
+    "Date of issue",
+    "Onboard date",
+    "SCAC code"
+  ]
+}
